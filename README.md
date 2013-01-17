@@ -27,9 +27,9 @@ Alur permainan
 		
 6. Pemain lain melemparkan kartu yang sama dengan pemain patokan.  
 	Kriteria sama yang dimaksud adalah jenis kartu, jika pemain pertama melempar kartu skop maka pemain lain juga harus melempar kartu skop.	
-	Pemain melempar kartu dengan urutan naik dari pemain patokan dan bersifat melingkar.	
+	Pemain melempar kartu dengan urutan naik dari giliran pemain patokan dan bersifat melingkar.	
 	Misalnya pemain patokan memiliki giliran ke-2 dan ada 3 orang pemain.	
-	Maka setelah pemain ke-2 melempar kartu maka pemain ke-3 yang mendapat giliran dan kemudian pemain pertama.	
+	Setelah pemain ke-2 melempar kartu maka pemain ke-3 yang mendapat giliran dan kemudian pemain pertama.	
 	6.1 Pemain tidak memiliki jenis kartu yang sama dengan jenis patokan.	
 		Pemain tersebut harus mencangkol sampai mendapat kartu yang sama dengan kartu patokan.	
 		6.1.1 Cangkolan habis dan pemain tidak mendapat kartu berjenis sama dengan kartu patokan.	
