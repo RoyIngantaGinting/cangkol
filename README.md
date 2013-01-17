@@ -33,9 +33,9 @@ Alur permainan
 	1. Pemain tidak memiliki jenis kartu yang sama dengan jenis patokan.	
 		Pemain tersebut harus mencangkol sampai mendapat kartu yang sama dengan kartu patokan.	
 		1. Cangkolan habis dan pemain tidak mendapat kartu berjenis sama dengan kartu patokan.	
-				* Pemain tersebut mengambil seluruh kartu yang ada dimeja.	
+				* Pemain tersebut mengambil seluruh kartu yang ada dimeja.		
 				* __Kembali ke nomor 4.__	
-	6.2. Kartu pemain telah habis.	
+	2. Kartu pemain telah habis.	
 		* __lompat ke nomor 8__.	
 7. Kembali ke nomor 4.	
 8. Permainan selesai dan pemain tersebut dinyatakan menang.	
