@@ -5,16 +5,16 @@ Permainan cangkol dengan banyak pemain dan melibatkan banyak device
 
 Perlengkapan permainan
 ----------------------
-1.	Pemain, minimal 2 orang.
-2. 	1 set kartu remi beserta dengan 2 buah joker.  
-			jumlah kartu 54 buah.  
-			terdiri dari 4 jenis, yaitu skop, hati, lupis(diamond), keriting.
+1. Pemain, minimal 2 orang.
+2. 1 set kartu remi beserta dengan 2 buah joker.  
+	jumlah kartu 54 buah.  
+	terdiri dari 4 jenis, yaitu skop, hati, lupis(diamond), keriting.
 
 Alur permainan
 --------------
 1. Salah satu pemain mengocok seluruh kartu yang digunakan.
 2. Pemain yang mengocok kartu lalu membagikan kartu ke seluruh pemain.  
-  Setiap pemain mendapat jumlah kartu yang sama, misalnya 7 buah kartu untuk setiap pemain.
+	Setiap pemain mendapat jumlah kartu yang sama, misalnya 7 buah kartu untuk setiap pemain.
 3. Beri nomor urut untuk setiap pemain.
 4. Tentukan pemain yang menjadi patokan.  
 	Kriteria menjadi patokan adalah pemain dengan kartu tertinggi atau secara acak tergantung kondisi saat penentuan.  
@@ -22,7 +22,7 @@ Alur permainan
 5. Pemain patokan melemparkan kartu ke meja.  
 	Kartu yang dilemparkan oleh pemain pertama menjadi patokan bagi pemain lain.  
 	Pemain tersebut bebas melemparkan kartu apa saja yang ada padanya.  
-	5.1 Kartu pemain telah habis.  
+	1. Kartu pemain telah habis.  
 		* _lompat ke nomor 8._ 
 		
 6. Pemain lain melemparkan kartu yang sama dengan pemain patokan.  
