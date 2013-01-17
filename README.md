@@ -30,12 +30,12 @@ Alur permainan
 	Pemain melempar kartu dengan urutan naik dari giliran pemain patokan dan bersifat melingkar.	
 	Misalnya pemain patokan memiliki giliran ke-2 dan ada 3 orang pemain.	
 	Setelah pemain ke-2 melempar kartu maka pemain ke-3 yang mendapat giliran dan kemudian pemain pertama.	
-	6.1 Pemain tidak memiliki jenis kartu yang sama dengan jenis patokan.	
+	1. Pemain tidak memiliki jenis kartu yang sama dengan jenis patokan.	
 		Pemain tersebut harus mencangkol sampai mendapat kartu yang sama dengan kartu patokan.	
-		6.1.1 Cangkolan habis dan pemain tidak mendapat kartu berjenis sama dengan kartu patokan.	
-				+ Pemain tersebut mengambil seluruh kartu yang ada dimeja.	
-				+ *Kembali ke nomor 4*.	
-	6.2 Kartu pemain telah habis.	
-		+ *lompat ke nomor 8*.	
+		1. Cangkolan habis dan pemain tidak mendapat kartu berjenis sama dengan kartu patokan.	
+				* Pemain tersebut mengambil seluruh kartu yang ada dimeja.	
+				* __Kembali ke nomor 4.__	
+	6.2. Kartu pemain telah habis.	
+		* __lompat ke nomor 8__.	
 7. Kembali ke nomor 4.	
 8. Permainan selesai dan pemain tersebut dinyatakan menang.	
