@@ -22,7 +22,7 @@ Alur permainan
 5. Pemain patokan melemparkan kartu ke meja.  
 	Kartu yang dilemparkan oleh pemain pertama menjadi patokan bagi pemain lain.  
 	Pemain tersebut bebas melemparkan kartu apa saja yang ada padanya.  
-	5.1. Kartu pemain telah habis.  
+	1. Kartu pemain telah habis.  
 			* __lompat ke nomor 8.__  
 		
 6. Pemain lain melemparkan kartu yang sama dengan pemain patokan.  
