@@ -17,8 +17,8 @@ Alur permainan
 	Setiap pemain mendapat jumlah kartu yang sama, misalnya 7 buah kartu untuk setiap pemain.
 3. Beri nomor urut untuk setiap pemain.
 4. Tentukan pemain yang menjadi patokan.  
-	Kriteria menjadi patokan adalah pemain dengan kartu tertinggi atau secara acak tergantung kondisi saat penentuan.  
-	Pemain yang menjadi patokan akan melemparkan kartu untuk pertama kali dalam 1 putaran kecil.
+	Kriteria menjadi patokan adalah pemain dengan kartu tertinggi atau pemain dengan nomor urut 1 tergantung kondisi.  
+	Untuk pertama kali, kartu patokan diambil dari cangkolan. Setelah itu pemain yang menjadi patokan akan melemparkan kartu untuk pertama kali dalam 1 putaran kecil.
 5. Pemain patokan melemparkan kartu ke meja.  
 	Kartu yang dilemparkan oleh pemain pertama menjadi patokan bagi pemain lain.  
 	Pemain tersebut bebas melemparkan kartu apa saja yang ada padanya.  
