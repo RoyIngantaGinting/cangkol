@@ -23,7 +23,7 @@ Alur permainan
 	Kartu yang dilemparkan oleh pemain pertama menjadi patokan bagi pemain lain.  
 	Pemain tersebut bebas melemparkan kartu apa saja yang ada padanya.  
 	5.1 Kartu pemain telah habis.  
-		+ *lompat ke nomor 8.*  
+		+	*lompat ke nomor 8.*  
 		
 6. Pemain lain melemparkan kartu yang sama dengan pemain patokan.  
 	Kriteria sama yang dimaksud adalah jenis kartu, jika pemain pertama melempar kartu skop maka pemain lain juga harus melempar kartu skop.	
