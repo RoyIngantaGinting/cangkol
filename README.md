@@ -7,8 +7,8 @@ Perlengkapan permainan
 ----------------------
 1.	Pemain, minimal 2 orang.
 2. 	1 set kartu remi beserta dengan 2 buah joker.
-    		jumlah kartu 54 buah.
-		terdiri dari 4 jenis, yaitu skop, hati, lupis(diamond), keriting.
+			jumlah kartu 54 buah.
+			terdiri dari 4 jenis, yaitu skop, hati, lupis(diamond), keriting.
 
 Alur permainan
 --------------
